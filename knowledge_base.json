@@ -1,0 +1,2371 @@
+{
+  "questions": [
+    {
+      "question": "hi",
+      "answer": "hello there!"
+    },
+    {
+      "question": "who are you",
+      "answer": "i m nlp currency converter chatbot"
+    },
+    {
+      "question": "what activity u can do",
+      "answer": "i can convert current currency value of any country"
+    },
+    {
+      "question": "hey",
+      "answer": "welcome"
+    },
+    {
+      "question": "can u convert any currency value",
+      "answer": "yes i m currency converter i can convert all sort of current currency value"
+    },
+    {
+      "question": "welcome",
+      "answer": "welcome too :-)"
+    },
+    {
+      "question": "ok bye",
+      "answer": "ok bye !! have a great day."
+    },
+    {
+      "question": "can i ask you question",
+      "answer": "yeah u can ask if its related to currency conversion...feel free to ask."
+    },
+    {
+      "question": "what is currency conversion",
+      "answer": "Currency conversion is the process of exchanging one country's currency for another country's currency, based on the current exchange rate."
+    },
+    {
+      "question": "ok fine",
+      "answer": "fine there, feel free to ask anytime."
+    },
+    {
+      "question": "ok good",
+      "answer": "good, feel free to ask anytime."
+    },
+    {
+      "question": "what type of work u can do or assist",
+      "answer": "i m currency converter i can convert all sort of current currency value"
+    },
+    {
+      "question": "hello",
+      "answer": "hello there! how can i assit u today."
+    },
+    {
+      "question": "usd full form",
+      "answer": "united states dollar"
+    },
+    {
+      "question": "what is your name?",
+      "answer": "i m currency converter i can convert all sort of current currency value."
+    },
+    {
+      "question": "how do you work?",
+      "answer": "i work according to programming instructions. ask anything related to currency conversion."
+    },
+    {
+      "question": "i said who made u",
+      "answer": "i m nlp based currency converter chatbot made by 'himanshu yadav'."
+    },
+    {
+      "question": "how u learn",
+      "answer": "i learn using a fine-tuned gpt-2 model & get data from currency converter API."
+    },
+    {
+      "question": "What is the currency of Afghanistan?",
+      "answer": "Afghanistan uses the Afghan Afghani (AFN)."
+    },
+    {
+      "question": "Which currency does Afghanistan use?",
+      "answer": "Afghanistan uses the Afghan Afghani (AFN)."
+    },
+    {
+      "question": "AFN belongs to which country?",
+      "answer": "AFN is the currency of Afghanistan."
+    },
+    {
+      "question": "What is the currency of Albania?",
+      "answer": "Albania uses the Albanian Lek (ALL)."
+    },
+    {
+      "question": "Which currency does Albania use?",
+      "answer": "Albania uses the Albanian Lek (ALL)."
+    },
+    {
+      "question": "ALL belongs to which country?",
+      "answer": "ALL is the currency of Albania."
+    },
+    {
+      "question": "What is the currency of Algeria?",
+      "answer": "Algeria uses the Algerian Dinar (DZD)."
+    },
+    {
+      "question": "Which currency does Algeria use?",
+      "answer": "Algeria uses the Algerian Dinar (DZD)."
+    },
+    {
+      "question": "DZD belongs to which country?",
+      "answer": "DZD is the currency of Algeria."
+    },
+    {
+      "question": "What is the currency of Andorra?",
+      "answer": "Andorra uses the Euro (EUR)."
+    },
+    {
+      "question": "Which currency does Andorra use?",
+      "answer": "Andorra uses the Euro (EUR)."
+    },
+    {
+      "question": "EUR belongs to which country?",
+      "answer": "EUR is used in Andorra."
+    },
+    {
+      "question": "What is the currency of Angola?",
+      "answer": "Angola uses the Angolan Kwanza (AOA)."
+    },
+    {
+      "question": "Which currency does Angola use?",
+      "answer": "Angola uses the Angolan Kwanza (AOA)."
+    },
+    {
+      "question": "AOA belongs to which country?",
+      "answer": "AOA is the currency of Angola."
+    },
+    {
+      "question": "What is the currency of Antigua and Barbuda?",
+      "answer": "Antigua and Barbuda uses the East Caribbean Dollar (XCD)."
+    },
+    {
+      "question": "Which currency does Antigua and Barbuda use?",
+      "answer": "Antigua and Barbuda uses the East Caribbean Dollar (XCD)."
+    },
+    {
+      "question": "XCD belongs to which country?",
+      "answer": "XCD is the currency of Antigua and Barbuda."
+    },
+    {
+      "question": "What is the currency of Argentina?",
+      "answer": "Argentina uses the Argentine Peso (ARS)."
+    },
+    {
+      "question": "Which currency does Argentina use?",
+      "answer": "Argentina uses the Argentine Peso (ARS)."
+    },
+    {
+      "question": "ARS belongs to which country?",
+      "answer": "ARS is the currency of Argentina."
+    },
+    {
+      "question": "What is the currency of Armenia?",
+      "answer": "Armenia uses the Armenian Dram (AMD)."
+    },
+    {
+      "question": "Which currency does Armenia use?",
+      "answer": "Armenia uses the Armenian Dram (AMD)."
+    },
+    {
+      "question": "AMD belongs to which country?",
+      "answer": "AMD is the currency of Armenia."
+    },
+    {
+      "question": "What is the currency of Australia?",
+      "answer": "Australia uses the Australian Dollar (AUD)."
+    },
+    {
+      "question": "Which currency does Australia use?",
+      "answer": "Australia uses the Australian Dollar (AUD)."
+    },
+    {
+      "question": "AUD belongs to which country?",
+      "answer": "AUD is the currency of Australia."
+    },
+    {
+      "question": "What is the currency of Austria?",
+      "answer": "Austria uses the Euro (EUR)."
+    },
+    {
+      "question": "Which currency does Austria use?",
+      "answer": "Austria uses the Euro (EUR)."
+    },
+    {
+      "question": "EUR belongs to which country?",
+      "answer": "EUR is used in Austria."
+    },
+    {
+      "question": "What is the currency of Azerbaijan?",
+      "answer": "Azerbaijan uses the Azerbaijani Manat (AZN)."
+    },
+    {
+      "question": "Which currency does Azerbaijan use?",
+      "answer": "Azerbaijan uses the Azerbaijani Manat (AZN)."
+    },
+    {
+      "question": "AZN belongs to which country?",
+      "answer": "AZN is the currency of Azerbaijan."
+    },
+    {
+      "question": "What is the currency of Bahamas?",
+      "answer": "The Bahamas uses the Bahamian Dollar (BSD)."
+    },
+    {
+      "question": "Which currency does Bahamas use?",
+      "answer": "The Bahamas uses the Bahamian Dollar (BSD)."
+    },
+    {
+      "question": "BSD belongs to which country?",
+      "answer": "BSD is the currency of the Bahamas."
+    },
+    {
+      "question": "What is the currency of Bahrain?",
+      "answer": "Bahrain uses the Bahraini Dinar (BHD)."
+    },
+    {
+      "question": "Which currency does Bahrain use?",
+      "answer": "Bahrain uses the Bahraini Dinar (BHD)."
+    },
+    {
+      "question": "BHD belongs to which country?",
+      "answer": "BHD is the currency of Bahrain."
+    },
+    {
+      "question": "What is the currency of Bangladesh?",
+      "answer": "Bangladesh uses the Bangladeshi Taka (BDT)."
+    },
+    {
+      "question": "Which currency does Bangladesh use?",
+      "answer": "Bangladesh uses the Bangladeshi Taka (BDT)."
+    },
+    {
+      "question": "BDT belongs to which country?",
+      "answer": "BDT is the currency of Bangladesh."
+    },
+    {
+      "question": "What is the currency of Barbados?",
+      "answer": "Barbados uses the Barbadian Dollar (BBD)."
+    },
+    {
+      "question": "Which currency does Barbados use?",
+      "answer": "Barbados uses the Barbadian Dollar (BBD)."
+    },
+    {
+      "question": "BBD belongs to which country?",
+      "answer": "BBD is the currency of Barbados."
+    },
+    {
+      "question": "What is the currency of Belarus?",
+      "answer": "Belarus uses the Belarusian Ruble (BYN)."
+    },
+    {
+      "question": "Which currency does Belarus use?",
+      "answer": "Belarus uses the Belarusian Ruble (BYN)."
+    },
+    {
+      "question": "BYN belongs to which country?",
+      "answer": "BYN is the currency of Belarus."
+    },
+    {
+      "question": "What is the currency of Belgium?",
+      "answer": "Belgium uses the Euro (EUR)."
+    },
+    {
+      "question": "Which currency does Belgium use?",
+      "answer": "Belgium uses the Euro (EUR)."
+    },
+    {
+      "question": "EUR belongs to which country?",
+      "answer": "EUR is used in Belgium."
+    },
+    {
+      "question": "What is the currency of Belize?",
+      "answer": "Belize uses the Belize Dollar (BZD)."
+    },
+    {
+      "question": "Which currency does Belize use?",
+      "answer": "Belize uses the Belize Dollar (BZD)."
+    },
+    {
+      "question": "BZD belongs to which country?",
+      "answer": "BZD is the currency of Belize."
+    },
+    {
+      "question": "What is the currency of Benin?",
+      "answer": "Benin uses the West African CFA Franc (XOF)."
+    },
+    {
+      "question": "Which currency does Benin use?",
+      "answer": "Benin uses the West African CFA Franc (XOF)."
+    },
+    {
+      "question": "XOF belongs to which country?",
+      "answer": "XOF is the currency used in Benin."
+    },
+    {
+      "question": "What is the currency of Bhutan?",
+      "answer": "Bhutan uses the Bhutanese Ngultrum (BTN)."
+    },
+    {
+      "question": "Which currency does Bhutan use?",
+      "answer": "Bhutan uses the Bhutanese Ngultrum (BTN)."
+    },
+    {
+      "question": "BTN belongs to which country?",
+      "answer": "BTN is the currency of Bhutan."
+    },
+    {
+      "question": "What is the currency of Bolivia?",
+      "answer": "Bolivia uses the Bolivian Boliviano (BOB)."
+    },
+    {
+      "question": "Which currency does Bolivia use?",
+      "answer": "Bolivia uses the Bolivian Boliviano (BOB)."
+    },
+    {
+      "question": "BOB belongs to which country?",
+      "answer": "BOB is the currency of Bolivia."
+    },
+    {
+      "question": "What is the currency of Bosnia and Herzegovina?",
+      "answer": "Bosnia and Herzegovina uses the Convertible Mark (BAM)."
+    },
+    {
+      "question": "Which currency does Bosnia and Herzegovina use?",
+      "answer": "Bosnia and Herzegovina uses the Convertible Mark (BAM)."
+    },
+    {
+      "question": "BAM belongs to which country?",
+      "answer": "BAM is the currency of Bosnia and Herzegovina."
+    },
+    {
+      "question": "What is the currency of Botswana?",
+      "answer": "Botswana uses the Botswana Pula (BWP)."
+    },
+    {
+      "question": "Which currency does Botswana use?",
+      "answer": "Botswana uses the Botswana Pula (BWP)."
+    },
+    {
+      "question": "BWP belongs to which country?",
+      "answer": "BWP is the currency of Botswana."
+    },
+    {
+      "question": "What is the currency of Brazil?",
+      "answer": "Brazil uses the Brazilian Real (BRL)."
+    },
+    {
+      "question": "Which currency does Brazil use?",
+      "answer": "Brazil uses the Brazilian Real (BRL)."
+    },
+    {
+      "question": "BRL belongs to which country?",
+      "answer": "BRL is the currency of Brazil."
+    },
+    {
+      "question": "What is the currency of Brunei?",
+      "answer": "Brunei uses the Brunei Dollar (BND)."
+    },
+    {
+      "question": "Which currency does Brunei use?",
+      "answer": "Brunei uses the Brunei Dollar (BND)."
+    },
+    {
+      "question": "BND belongs to which country?",
+      "answer": "BND is the currency of Brunei."
+    },
+    {
+      "question": "What is the currency of Bulgaria?",
+      "answer": "Bulgaria uses the Bulgarian Lev (BGN)."
+    },
+    {
+      "question": "Which currency does Bulgaria use?",
+      "answer": "Bulgaria uses the Bulgarian Lev (BGN)."
+    },
+    {
+      "question": "BGN belongs to which country?",
+      "answer": "BGN is the currency of Bulgaria."
+    },
+    {
+      "question": "What is the currency of Burkina Faso?",
+      "answer": "Burkina Faso uses the West African CFA Franc (XOF)."
+    },
+    {
+      "question": "Which currency does Burkina Faso use?",
+      "answer": "Burkina Faso uses the West African CFA Franc (XOF)."
+    },
+    {
+      "question": "XOF belongs to which country?",
+      "answer": "XOF is used in Burkina Faso."
+    },
+    {
+      "question": "What is the currency of Burundi?",
+      "answer": "Burundi uses the Burundian Franc (BIF)."
+    },
+    {
+      "question": "Which currency does Burundi use?",
+      "answer": "Burundi uses the Burundian Franc (BIF)."
+    },
+    {
+      "question": "BIF belongs to which country?",
+      "answer": "BIF is the currency of Burundi."
+    },
+    {
+      "question": "What is the currency of Cabo Verde?",
+      "answer": "Cabo Verde uses the Cape Verdean Escudo (CVE)."
+    },
+    {
+      "question": "Which currency does Cabo Verde use?",
+      "answer": "Cabo Verde uses the Cape Verdean Escudo (CVE)."
+    },
+    {
+      "question": "CVE belongs to which country?",
+      "answer": "CVE is the currency of Cabo Verde."
+    },
+    {
+      "question": "What is the currency of Cambodia?",
+      "answer": "Cambodia uses the Cambodian Riel (KHR)."
+    },
+    {
+      "question": "Which currency does Cambodia use?",
+      "answer": "Cambodia uses the Cambodian Riel (KHR)."
+    },
+    {
+      "question": "KHR belongs to which country?",
+      "answer": "KHR is the currency of Cambodia."
+    },
+    {
+      "question": "What is the currency of Cameroon?",
+      "answer": "Cameroon uses the Central African CFA Franc (XAF)."
+    },
+    {
+      "question": "Which currency does Cameroon use?",
+      "answer": "Cameroon uses the Central African CFA Franc (XAF)."
+    },
+    {
+      "question": "XAF belongs to which country?",
+      "answer": "XAF is used in Cameroon."
+    },
+    {
+      "question": "What is the currency of Canada?",
+      "answer": "Canada uses the Canadian Dollar (CAD)."
+    },
+    {
+      "question": "Which currency does Canada use?",
+      "answer": "Canada uses the Canadian Dollar (CAD)."
+    },
+    {
+      "question": "CAD belongs to which country?",
+      "answer": "CAD is the currency of Canada."
+    },
+    {
+      "question": "What is the currency of Central African Republic?",
+      "answer": "Central African Republic uses the Central African CFA Franc (XAF)."
+    },
+    {
+      "question": "Which currency does Central African Republic use?",
+      "answer": "Central African Republic uses the Central African CFA Franc (XAF)."
+    },
+    {
+      "question": "XAF belongs to which country?",
+      "answer": "XAF is used in Central African Republic."
+    },
+    {
+      "question": "What is the currency of Chad?",
+      "answer": "Chad uses the Central African CFA Franc (XAF)."
+    },
+    {
+      "question": "Which currency does Chad use?",
+      "answer": "Chad uses the Central African CFA Franc (XAF)."
+    },
+    {
+      "question": "XAF belongs to which country?",
+      "answer": "XAF is the currency of Chad."
+    },
+    {
+      "question": "What is the currency of Chile?",
+      "answer": "Chile uses the Chilean Peso (CLP)."
+    },
+    {
+      "question": "Which currency does Chile use?",
+      "answer": "Chile uses the Chilean Peso (CLP)."
+    },
+    {
+      "question": "CLP belongs to which country?",
+      "answer": "CLP is the currency of Chile."
+    },
+    {
+      "question": "What is the currency of China?",
+      "answer": "China uses the Chinese Yuan (CNY)."
+    },
+    {
+      "question": "Which currency does China use?",
+      "answer": "China uses the Chinese Yuan (CNY)."
+    },
+    {
+      "question": "CNY belongs to which country?",
+      "answer": "CNY is the currency of China."
+    },
+    {
+      "question": "What is the currency of Colombia?",
+      "answer": "Colombia uses the Colombian Peso (COP)."
+    },
+    {
+      "question": "Which currency does Colombia use?",
+      "answer": "Colombia uses the Colombian Peso (COP)."
+    },
+    {
+      "question": "COP belongs to which country?",
+      "answer": "COP is the currency of Colombia."
+    },
+    {
+      "question": "What is the currency of Comoros?",
+      "answer": "Comoros uses the Comorian Franc (KMF)."
+    },
+    {
+      "question": "Which currency does Comoros use?",
+      "answer": "Comoros uses the Comorian Franc (KMF)."
+    },
+    {
+      "question": "KMF belongs to which country?",
+      "answer": "KMF is the currency of Comoros."
+    },
+    {
+      "question": "What is the currency of Congo?",
+      "answer": "The Congo uses the Central African CFA Franc (XAF)."
+    },
+    {
+      "question": "Which currency does Congo use?",
+      "answer": "Congo uses the Central African CFA Franc (XAF)."
+    },
+    {
+      "question": "XAF belongs to which country?",
+      "answer": "XAF is used in Congo."
+    },
+    {
+      "question": "What is the currency of Costa Rica?",
+      "answer": "Costa Rica uses the Costa Rican Colón (CRC)."
+    },
+    {
+      "question": "Which currency does Costa Rica use?",
+      "answer": "Costa Rica uses the Costa Rican Colón (CRC)."
+    },
+    {
+      "question": "CRC belongs to which country?",
+      "answer": "CRC is the currency of Costa Rica."
+    },
+    {
+      "question": "What is the currency of Croatia?",
+      "answer": "Croatia uses the Euro (EUR)."
+    },
+    {
+      "question": "Which currency does Croatia use?",
+      "answer": "Croatia uses the Euro (EUR)."
+    },
+    {
+      "question": "EUR belongs to which country?",
+      "answer": "EUR is used in Croatia."
+    },
+    {
+      "question": "What is the currency of Cuba?",
+      "answer": "Cuba uses the Cuban Peso (CUP)."
+    },
+    {
+      "question": "Which currency does Cuba use?",
+      "answer": "Cuba uses the Cuban Peso (CUP)."
+    },
+    {
+      "question": "CUP belongs to which country?",
+      "answer": "CUP is the currency of Cuba."
+    },
+    {
+      "question": "What is the currency of Cyprus?",
+      "answer": "Cyprus uses the Euro (EUR)."
+    },
+    {
+      "question": "Which currency does Cyprus use?",
+      "answer": "Cyprus uses the Euro (EUR)."
+    },
+    {
+      "question": "EUR belongs to which country?",
+      "answer": "EUR is used in Cyprus."
+    },
+    {
+      "question": "What is the currency of Czech Republic?",
+      "answer": "Czech Republic uses the Czech Koruna (CZK)."
+    },
+    {
+      "question": "Which currency does Czech Republic use?",
+      "answer": "Czech Republic uses the Czech Koruna (CZK)."
+    },
+    {
+      "question": "CZK belongs to which country?",
+      "answer": "CZK is the currency of Czech Republic."
+    },
+    {
+      "question": "What is the currency of Denmark?",
+      "answer": "Denmark uses the Danish Krone (DKK)."
+    },
+    {
+      "question": "Which currency does Denmark use?",
+      "answer": "Denmark uses the Danish Krone (DKK)."
+    },
+    {
+      "question": "DKK belongs to which country?",
+      "answer": "DKK is the currency of Denmark."
+    },
+    {
+      "question": "What is the currency of Djibouti?",
+      "answer": "Djibouti uses the Djiboutian Franc (DJF)."
+    },
+    {
+      "question": "Which currency does Djibouti use?",
+      "answer": "Djibouti uses the Djiboutian Franc (DJF)."
+    },
+    {
+      "question": "DJF belongs to which country?",
+      "answer": "DJF is the currency of Djibouti."
+    },
+    {
+      "question": "What is the currency of Dominica?",
+      "answer": "Dominica uses the East Caribbean Dollar (XCD)."
+    },
+    {
+      "question": "Which currency does Dominica use?",
+      "answer": "Dominica uses the East Caribbean Dollar (XCD)."
+    },
+    {
+      "question": "XCD belongs to which country?",
+      "answer": "XCD is used in Dominica."
+    },
+    {
+      "question": "What is the currency of Dominican Republic?",
+      "answer": "Dominican Republic uses the Dominican Peso (DOP)."
+    },
+    {
+      "question": "Which currency does Dominican Republic use?",
+      "answer": "Dominican Republic uses the Dominican Peso (DOP)."
+    },
+    {
+      "question": "DOP belongs to which country?",
+      "answer": "DOP is the currency of Dominican Republic."
+    },
+    {
+      "question": "What is the currency of DR Congo?",
+      "answer": "Democratic Republic of Congo uses the Congolese Franc (CDF)."
+    },
+    {
+      "question": "Which currency does DR Congo use?",
+      "answer": "DR Congo uses the Congolese Franc (CDF)."
+    },
+    {
+      "question": "CDF belongs to which country?",
+      "answer": "CDF is the currency of DR Congo."
+    },
+    {
+      "question": "What is the currency of Ecuador?",
+      "answer": "Ecuador uses the United States Dollar (USD)."
+    },
+    {
+      "question": "Which currency does Ecuador use?",
+      "answer": "Ecuador uses the US Dollar (USD)."
+    },
+    {
+      "question": "USD belongs to which country (for Ecuador)?",
+      "answer": "Ecuador uses the US Dollar (USD) as its official currency."
+    },
+    {
+      "question": "What is the currency of Egypt?",
+      "answer": "Egypt uses the Egyptian Pound (EGP)."
+    },
+    {
+      "question": "Which currency does Egypt use?",
+      "answer": "Egypt uses the Egyptian Pound (EGP)."
+    },
+    {
+      "question": "EGP belongs to which country?",
+      "answer": "EGP is the currency of Egypt."
+    },
+    {
+      "question": "What is the currency of El Salvador?",
+      "answer": "El Salvador uses the United States Dollar (USD)."
+    },
+    {
+      "question": "Which currency does El Salvador use?",
+      "answer": "El Salvador uses the US Dollar (USD)."
+    },
+    {
+      "question": "USD belongs to which country (for El Salvador)?",
+      "answer": "USD is used as the official currency in El Salvador."
+    },
+    {
+      "question": "What is the currency of Equatorial Guinea?",
+      "answer": "Equatorial Guinea uses the Central African CFA Franc (XAF)."
+    },
+    {
+      "question": "Which currency does Equatorial Guinea use?",
+      "answer": "Equatorial Guinea uses the Central African CFA Franc (XAF)."
+    },
+    {
+      "question": "XAF belongs to which country?",
+      "answer": "XAF is the currency of Equatorial Guinea and several Central African countries."
+    },
+    {
+      "question": "What is the currency of Eritrea?",
+      "answer": "Eritrea uses the Eritrean Nakfa (ERN)."
+    },
+    {
+      "question": "Which currency does Eritrea use?",
+      "answer": "Eritrea uses the Eritrean Nakfa (ERN)."
+    },
+    {
+      "question": "ERN belongs to which country?",
+      "answer": "ERN is the currency of Eritrea."
+    },
+    {
+      "question": "What is the currency of Estonia?",
+      "answer": "Estonia uses the Euro (EUR)."
+    },
+    {
+      "question": "Which currency does Estonia use?",
+      "answer": "Estonia uses the Euro (EUR)."
+    },
+    {
+      "question": "EUR belongs to which country (for Estonia)?",
+      "answer": "EUR is used in Estonia."
+    },
+    {
+      "question": "What is the currency of Eswatini?",
+      "answer": "Eswatini uses the Swazi Lilangeni (SZL)."
+    },
+    {
+      "question": "Which currency does Eswatini use?",
+      "answer": "Eswatini uses the Swazi Lilangeni (SZL)."
+    },
+    {
+      "question": "SZL belongs to which country?",
+      "answer": "SZL is the currency of Eswatini."
+    },
+    {
+      "question": "What is the currency of Ethiopia?",
+      "answer": "Ethiopia uses the Ethiopian Birr (ETB)."
+    },
+    {
+      "question": "Which currency does Ethiopia use?",
+      "answer": "Ethiopia uses the Ethiopian Birr (ETB)."
+    },
+    {
+      "question": "ETB belongs to which country?",
+      "answer": "ETB is the currency of Ethiopia."
+    },
+    {
+      "question": "What is the currency of Fiji?",
+      "answer": "Fiji uses the Fijian Dollar (FJD)."
+    },
+    {
+      "question": "Which currency does Fiji use?",
+      "answer": "Fiji uses the Fijian Dollar (FJD)."
+    },
+    {
+      "question": "FJD belongs to which country?",
+      "answer": "FJD is the currency of Fiji."
+    },
+    {
+      "question": "What is the currency of Finland?",
+      "answer": "Finland uses the Euro (EUR)."
+    },
+    {
+      "question": "Which currency does Finland use?",
+      "answer": "Finland uses the Euro (EUR)."
+    },
+    {
+      "question": "EUR belongs to which country (for Finland)?",
+      "answer": "Finland uses the Euro (EUR)."
+    },
+    {
+      "question": "What is the currency of France?",
+      "answer": "France uses the Euro (EUR)."
+    },
+    {
+      "question": "Which currency does France use?",
+      "answer": "France uses the Euro (EUR)."
+    },
+    {
+      "question": "EUR belongs to which country (for France)?",
+      "answer": "EUR is used in France."
+    },
+    {
+      "question": "What is the currency of Faroe Islands?",
+      "answer": "The Faroe Islands use the Faroese Króna (FOK), pegged to the Danish Krone (DKK)."
+    },
+    {
+      "question": "Which currency does the Faroe Islands use?",
+      "answer": "The Faroe Islands use the Faroese Króna (FOK), pegged to the Danish Krone (DKK)."
+    },
+    {
+      "question": "FOK belongs to which country?",
+      "answer": "FOK is the currency of the Faroe Islands."
+    },
+    {
+      "question": "What is the currency of Gabon?",
+      "answer": "Gabon uses the Central African CFA Franc (XAF)."
+    },
+    {
+      "question": "Which currency does Gabon use?",
+      "answer": "Gabon uses the Central African CFA Franc (XAF)."
+    },
+    {
+      "question": "XAF belongs to which country (for Gabon)?",
+      "answer": "XAF is the currency used by Gabon and other Central African nations."
+    },
+    {
+      "question": "What is the currency of Gambia?",
+      "answer": "Gambia uses the Gambian Dalasi (GMD)."
+    },
+    {
+      "question": "Which currency does Gambia use?",
+      "answer": "Gambia uses the Gambian Dalasi (GMD)."
+    },
+    {
+      "question": "GMD belongs to which country?",
+      "answer": "GMD is the currency of Gambia."
+    },
+    {
+      "question": "What is the currency of Georgia?",
+      "answer": "Georgia uses the Georgian Lari (GEL)."
+    },
+    {
+      "question": "Which currency does Georgia use?",
+      "answer": "Georgia uses the Georgian Lari (GEL)."
+    },
+    {
+      "question": "GEL belongs to which country?",
+      "answer": "GEL is the currency of Georgia."
+    },
+    {
+      "question": "What is the currency of Germany?",
+      "answer": "Germany uses the Euro (EUR)."
+    },
+    {
+      "question": "Which currency does Germany use?",
+      "answer": "Germany uses the Euro (EUR)."
+    },
+    {
+      "question": "EUR belongs to which country (for Germany)?",
+      "answer": "EUR is the currency of Germany."
+    },
+    {
+      "question": "What is the currency of Ghana?",
+      "answer": "Ghana uses the Ghanaian Cedi (GHS)."
+    },
+    {
+      "question": "Which currency does Ghana use?",
+      "answer": "Ghana uses the Ghanaian Cedi (GHS)."
+    },
+    {
+      "question": "GHS belongs to which country?",
+      "answer": "GHS is the currency of Ghana."
+    },
+    {
+      "question": "What is the currency of Greece?",
+      "answer": "Greece uses the Euro (EUR)."
+    },
+    {
+      "question": "Which currency does Greece use?",
+      "answer": "Greece uses the Euro (EUR)."
+    },
+    {
+      "question": "EUR belongs to which country (for Greece)?",
+      "answer": "EUR is used in Greece."
+    },
+    {
+      "question": "What is the currency of Greenland?",
+      "answer": "Greenland uses the Danish Krone (DKK)."
+    },
+    {
+      "question": "Which currency does Greenland use?",
+      "answer": "Greenland uses the Danish Krone (DKK)."
+    },
+    {
+      "question": "DKK belongs to which country (related to Greenland)?",
+      "answer": "DKK is the currency of Denmark and used in Greenland."
+    },
+    {
+      "question": "What is the currency of Guatemala?",
+      "answer": "Guatemala uses the Guatemalan Quetzal (GTQ)."
+    },
+    {
+      "question": "Which currency does Guatemala use?",
+      "answer": "Guatemala uses the Guatemalan Quetzal (GTQ)."
+    },
+    {
+      "question": "GTQ belongs to which country?",
+      "answer": "GTQ is the currency of Guatemala."
+    },
+    {
+      "question": "What is the currency of Guyana?",
+      "answer": "Guyana uses the Guyanese Dollar (GYD)."
+    },
+    {
+      "question": "Which currency does Guyana use?",
+      "answer": "Guyana uses the Guyanese Dollar (GYD)."
+    },
+    {
+      "question": "GYD belongs to which country?",
+      "answer": "GYD is the currency of Guyana."
+    },
+    {
+      "question": "What is the currency of Haiti?",
+      "answer": "Haiti uses the Haitian Gourde (HTG)."
+    },
+    {
+      "question": "Which currency does Haiti use?",
+      "answer": "Haiti uses the Haitian Gourde (HTG)."
+    },
+    {
+      "question": "HTG belongs to which country?",
+      "answer": "HTG is the currency of Haiti."
+    },
+    {
+      "question": "What is the currency of Honduras?",
+      "answer": "Honduras uses the Honduran Lempira (HNL)."
+    },
+    {
+      "question": "Which currency does Honduras use?",
+      "answer": "Honduras uses the Honduran Lempira (HNL)."
+    },
+    {
+      "question": "HNL belongs to which country?",
+      "answer": "HNL is the currency of Honduras."
+    },
+    {
+      "question": "What is the currency of Hungary?",
+      "answer": "Hungary uses the Hungarian Forint (HUF)."
+    },
+    {
+      "question": "Which currency does Hungary use?",
+      "answer": "Hungary uses the Hungarian Forint (HUF)."
+    },
+    {
+      "question": "HUF belongs to which country?",
+      "answer": "HUF is the currency of Hungary."
+    },
+    {
+      "question": "What is the currency of Iceland?",
+      "answer": "Iceland uses the Icelandic Króna (ISK)."
+    },
+    {
+      "question": "Which currency does Iceland use?",
+      "answer": "Iceland uses the Icelandic Króna (ISK)."
+    },
+    {
+      "question": "ISK belongs to which country?",
+      "answer": "ISK is the currency of Iceland."
+    },
+    {
+      "question": "What is the currency of India?",
+      "answer": "India uses the Indian Rupee (INR)."
+    },
+    {
+      "question": "Which currency does India use?",
+      "answer": "India uses the Indian Rupee (INR)."
+    },
+    {
+      "question": "INR belongs to which country?",
+      "answer": "INR is the currency of India."
+    },
+    {
+      "question": "What is the currency of Indonesia?",
+      "answer": "Indonesia uses the Indonesian Rupiah (IDR)."
+    },
+    {
+      "question": "Which currency does Indonesia use?",
+      "answer": "Indonesia uses the Indonesian Rupiah (IDR)."
+    },
+    {
+      "question": "IDR belongs to which country?",
+      "answer": "IDR is the currency of Indonesia."
+    },
+    {
+      "question": "What is the currency of Iran?",
+      "answer": "Iran uses the Iranian Rial (IRR)."
+    },
+    {
+      "question": "Which currency does Iran use?",
+      "answer": "Iran uses the Iranian Rial (IRR)."
+    },
+    {
+      "question": "IRR belongs to which country?",
+      "answer": "IRR is the currency of Iran."
+    },
+    {
+      "question": "What is the currency of Iraq?",
+      "answer": "Iraq uses the Iraqi Dinar (IQD)."
+    },
+    {
+      "question": "Which currency does Iraq use?",
+      "answer": "Iraq uses the Iraqi Dinar (IQD)."
+    },
+    {
+      "question": "IQD belongs to which country?",
+      "answer": "IQD is the currency of Iraq."
+    },
+    {
+      "question": "What is the currency of Ireland?",
+      "answer": "Ireland uses the Euro (EUR)."
+    },
+    {
+      "question": "Which currency does Ireland use?",
+      "answer": "Ireland uses the Euro (EUR)."
+    },
+    {
+      "question": "EUR belongs to which country in Europe?",
+      "answer": "EUR is used in Ireland and several other European countries."
+    },
+    {
+      "question": "What is the currency of Israel?",
+      "answer": "Israel uses the Israeli New Shekel (ILS)."
+    },
+    {
+      "question": "Which currency does Israel use?",
+      "answer": "Israel uses the Israeli New Shekel (ILS)."
+    },
+    {
+      "question": "ILS belongs to which country?",
+      "answer": "ILS is the currency of Israel."
+    },
+    {
+      "question": "What is the currency of Italy?",
+      "answer": "Italy uses the Euro (EUR)."
+    },
+    {
+      "question": "Which currency does Italy use?",
+      "answer": "Italy uses the Euro (EUR)."
+    },
+    {
+      "question": "EUR belongs to which country?",
+      "answer": "EUR is the currency of Italy and other Eurozone countries."
+    },
+    {
+      "question": "What is the currency of Jamaica?",
+      "answer": "Jamaica uses the Jamaican Dollar (JMD)."
+    },
+    {
+      "question": "Which currency does Jamaica use?",
+      "answer": "Jamaica uses the Jamaican Dollar (JMD)."
+    },
+    {
+      "question": "JMD belongs to which country?",
+      "answer": "JMD is the currency of Jamaica."
+    },
+    {
+      "question": "What is the currency of Japan?",
+      "answer": "Japan uses the Japanese Yen (JPY)."
+    },
+    {
+      "question": "Which currency does Japan use?",
+      "answer": "Japan uses the Japanese Yen (JPY)."
+    },
+    {
+      "question": "JPY belongs to which country?",
+      "answer": "JPY is the currency of Japan."
+    },
+    {
+      "question": "What is the currency of Jordan?",
+      "answer": "Jordan uses the Jordanian Dinar (JOD)."
+    },
+    {
+      "question": "Which currency does Jordan use?",
+      "answer": "Jordan uses the Jordanian Dinar (JOD)."
+    },
+    {
+      "question": "JOD belongs to which country?",
+      "answer": "JOD is the currency of Jordan."
+    },
+    {
+      "question": "What is the currency of Kazakhstan?",
+      "answer": "Kazakhstan uses the Kazakhstani Tenge (KZT)."
+    },
+    {
+      "question": "Which currency does Kazakhstan use?",
+      "answer": "Kazakhstan uses the Kazakhstani Tenge (KZT)."
+    },
+    {
+      "question": "KZT belongs to which country?",
+      "answer": "KZT is the currency of Kazakhstan."
+    },
+    {
+      "question": "What is the currency of Kenya?",
+      "answer": "Kenya uses the Kenyan Shilling (KES)."
+    },
+    {
+      "question": "Which currency does Kenya use?",
+      "answer": "Kenya uses the Kenyan Shilling (KES)."
+    },
+    {
+      "question": "KES belongs to which country?",
+      "answer": "KES is the currency of Kenya."
+    },
+    {
+      "question": "What is the currency of Kuwait?",
+      "answer": "Kuwait uses the Kuwaiti Dinar (KWD)."
+    },
+    {
+      "question": "Which currency does Kuwait use?",
+      "answer": "Kuwait uses the Kuwaiti Dinar (KWD)."
+    },
+    {
+      "question": "KWD belongs to which country?",
+      "answer": "KWD is the currency of Kuwait."
+    },
+    {
+      "question": "What is the currency of Kyrgyzstan?",
+      "answer": "Kyrgyzstan uses the Kyrgyzstani Som (KGS)."
+    },
+    {
+      "question": "Which currency does Kyrgyzstan use?",
+      "answer": "Kyrgyzstan uses the Kyrgyzstani Som (KGS)."
+    },
+    {
+      "question": "KGS belongs to which country?",
+      "answer": "KGS is the currency of Kyrgyzstan."
+    },
+    {
+      "question": "What is the currency of Kiribati?",
+      "answer": "Kiribati uses the Australian Dollar (AUD)."
+    },
+    {
+      "question": "Which currency does Kiribati use?",
+      "answer": "Kiribati uses the Australian Dollar (AUD)."
+    },
+    {
+      "question": "AUD belongs to which country (in this case)?",
+      "answer": "AUD is used as currency in Kiribati, though it is originally the currency of Australia."
+    },
+    {
+      "question": "What is the currency of Laos?",
+      "answer": "Laos uses the Lao Kip (LAK)."
+    },
+    {
+      "question": "Which currency does Laos use?",
+      "answer": "Laos uses the Lao Kip (LAK)."
+    },
+    {
+      "question": "LAK belongs to which country?",
+      "answer": "LAK is the currency of Laos."
+    },
+    {
+      "question": "What is the currency of Latvia?",
+      "answer": "Latvia uses the Euro (EUR)."
+    },
+    {
+      "question": "Which currency does Latvia use?",
+      "answer": "Latvia uses the Euro (EUR)."
+    },
+    {
+      "question": "EUR belongs to which country (in this case)?",
+      "answer": "EUR is used in Latvia."
+    },
+    {
+      "question": "What is the currency of Lebanon?",
+      "answer": "Lebanon uses the Lebanese Pound (LBP)."
+    },
+    {
+      "question": "Which currency does Lebanon use?",
+      "answer": "Lebanon uses the Lebanese Pound (LBP)."
+    },
+    {
+      "question": "LBP belongs to which country?",
+      "answer": "LBP is the currency of Lebanon."
+    },
+    {
+      "question": "What is the currency of Lesotho?",
+      "answer": "Lesotho uses the Lesotho Loti (LSL)."
+    },
+    {
+      "question": "Which currency does Lesotho use?",
+      "answer": "Lesotho uses the Lesotho Loti (LSL)."
+    },
+    {
+      "question": "LSL belongs to which country?",
+      "answer": "LSL is the currency of Lesotho."
+    },
+    {
+      "question": "What is the currency of Liberia?",
+      "answer": "Liberia uses the Liberian Dollar (LRD)."
+    },
+    {
+      "question": "Which currency does Liberia use?",
+      "answer": "Liberia uses the Liberian Dollar (LRD)."
+    },
+    {
+      "question": "LRD belongs to which country?",
+      "answer": "LRD is the currency of Liberia."
+    },
+    {
+      "question": "What is the currency of Libya?",
+      "answer": "Libya uses the Libyan Dinar (LYD)."
+    },
+    {
+      "question": "Which currency does Libya use?",
+      "answer": "Libya uses the Libyan Dinar (LYD)."
+    },
+    {
+      "question": "LYD belongs to which country?",
+      "answer": "LYD is the currency of Libya."
+    },
+    {
+      "question": "What is the currency of Liechtenstein?",
+      "answer": "Liechtenstein uses the Swiss Franc (CHF)."
+    },
+    {
+      "question": "Which currency does Liechtenstein use?",
+      "answer": "Liechtenstein uses the Swiss Franc (CHF)."
+    },
+    {
+      "question": "CHF belongs to which country (here)?",
+      "answer": "CHF is used in Liechtenstein, though originally the currency of Switzerland."
+    },
+    {
+      "question": "What is the currency of Lithuania?",
+      "answer": "Lithuania uses the Euro (EUR)."
+    },
+    {
+      "question": "Which currency does Lithuania use?",
+      "answer": "Lithuania uses the Euro (EUR)."
+    },
+    {
+      "question": "EUR belongs to which country (this case)?",
+      "answer": "EUR is used in Lithuania."
+    },
+    {
+      "question": "What is the currency of Luxembourg?",
+      "answer": "Luxembourg uses the Euro (EUR)."
+    },
+    {
+      "question": "Which currency does Luxembourg use?",
+      "answer": "Luxembourg uses the Euro (EUR)."
+    },
+    {
+      "question": "EUR belongs to which country (here)?",
+      "answer": "EUR is used in Luxembourg."
+    },
+    {
+      "question": "What is the currency of Madagascar?",
+      "answer": "Madagascar uses the Malagasy Ariary (MGA)."
+    },
+    {
+      "question": "Which currency does Madagascar use?",
+      "answer": "Madagascar uses the Malagasy Ariary (MGA)."
+    },
+    {
+      "question": "MGA belongs to which country?",
+      "answer": "MGA is the currency of Madagascar."
+    },
+    {
+      "question": "What is the currency of Malawi?",
+      "answer": "Malawi uses the Malawian Kwacha (MWK)."
+    },
+    {
+      "question": "Which currency does Malawi use?",
+      "answer": "Malawi uses the Malawian Kwacha (MWK)."
+    },
+    {
+      "question": "MWK belongs to which country?",
+      "answer": "MWK is the currency of Malawi."
+    },
+    {
+      "question": "What is the currency of Malaysia?",
+      "answer": "Malaysia uses the Malaysian Ringgit (MYR)."
+    },
+    {
+      "question": "Which currency does Malaysia use?",
+      "answer": "Malaysia uses the Malaysian Ringgit (MYR)."
+    },
+    {
+      "question": "MYR belongs to which country?",
+      "answer": "MYR is the currency of Malaysia."
+    },
+    {
+      "question": "What is the currency of Maldives?",
+      "answer": "The Maldives uses the Maldivian Rufiyaa (MVR)."
+    },
+    {
+      "question": "Which currency does Maldives use?",
+      "answer": "The Maldives uses the Maldivian Rufiyaa (MVR)."
+    },
+    {
+      "question": "MVR belongs to which country?",
+      "answer": "MVR is the currency of the Maldives."
+    },
+    {
+      "question": "What is the currency of Mali?",
+      "answer": "Mali uses the West African CFA Franc (XOF)."
+    },
+    {
+      "question": "Which currency does Mali use?",
+      "answer": "Mali uses the West African CFA Franc (XOF)."
+    },
+    {
+      "question": "XOF belongs to which country (this case)?",
+      "answer": "XOF is the currency used in Mali."
+    },
+    {
+      "question": "What is the currency of Malta?",
+      "answer": "Malta uses the Euro (EUR)."
+    },
+    {
+      "question": "Which currency does Malta use?",
+      "answer": "Malta uses the Euro (EUR)."
+    },
+    {
+      "question": "EUR belongs to which country (here)?",
+      "answer": "EUR is used in Malta."
+    },
+    {
+      "question": "What is the currency of Mauritania?",
+      "answer": "Mauritania uses the Mauritanian Ouguiya (MRU)."
+    },
+    {
+      "question": "Which currency does Mauritania use?",
+      "answer": "Mauritania uses the Mauritanian Ouguiya (MRU)."
+    },
+    {
+      "question": "MRU belongs to which country?",
+      "answer": "MRU is the currency of Mauritania."
+    },
+    {
+      "question": "What is the currency of Mauritius?",
+      "answer": "Mauritius uses the Mauritian Rupee (MUR)."
+    },
+    {
+      "question": "Which currency does Mauritius use?",
+      "answer": "Mauritius uses the Mauritian Rupee (MUR)."
+    },
+    {
+      "question": "MUR belongs to which country?",
+      "answer": "MUR is the currency of Mauritius."
+    },
+    {
+      "question": "What is the currency of Mexico?",
+      "answer": "Mexico uses the Mexican Peso (MXN)."
+    },
+    {
+      "question": "Which currency does Mexico use?",
+      "answer": "Mexico uses the Mexican Peso (MXN)."
+    },
+    {
+      "question": "MXN belongs to which country?",
+      "answer": "MXN is the currency of Mexico."
+    },
+    {
+      "question": "What is the currency of Moldova?",
+      "answer": "Moldova uses the Moldovan Leu (MDL)."
+    },
+    {
+      "question": "Which currency does Moldova use?",
+      "answer": "Moldova uses the Moldovan Leu (MDL)."
+    },
+    {
+      "question": "MDL belongs to which country?",
+      "answer": "MDL is the currency of Moldova."
+    },
+    {
+      "question": "What is the currency of Monaco?",
+      "answer": "Monaco uses the Euro (EUR)."
+    },
+    {
+      "question": "Which currency does Monaco use?",
+      "answer": "Monaco uses the Euro (EUR)."
+    },
+    {
+      "question": "EUR belongs to which country (here)?",
+      "answer": "EUR is used in Monaco."
+    },
+    {
+      "question": "What is the currency of Mongolia?",
+      "answer": "Mongolia uses the Mongolian Tögrög (MNT)."
+    },
+    {
+      "question": "Which currency does Mongolia use?",
+      "answer": "Mongolia uses the Mongolian Tögrög (MNT)."
+    },
+    {
+      "question": "MNT belongs to which country?",
+      "answer": "MNT is the currency of Mongolia."
+    },
+    {
+      "question": "What is the currency of Montenegro?",
+      "answer": "Montenegro uses the Euro (EUR) even though it is not part of the Eurozone officially."
+    },
+    {
+      "question": "Which currency does Montenegro use?",
+      "answer": "Montenegro uses the Euro (EUR)."
+    },
+    {
+      "question": "EUR belongs to which country (here)?",
+      "answer": "EUR is used in Montenegro."
+    },
+    {
+      "question": "What is the currency of Morocco?",
+      "answer": "Morocco uses the Moroccan Dirham (MAD)."
+    },
+    {
+      "question": "Which currency does Morocco use?",
+      "answer": "Morocco uses the Moroccan Dirham (MAD)."
+    },
+    {
+      "question": "MAD belongs to which country?",
+      "answer": "MAD is the currency of Morocco."
+    },
+    {
+      "question": "What is the currency of Mozambique?",
+      "answer": "Mozambique uses the Mozambican Metical (MZN)."
+    },
+    {
+      "question": "Which currency does Mozambique use?",
+      "answer": "Mozambique uses the Mozambican Metical (MZN)."
+    },
+    {
+      "question": "MZN belongs to which country?",
+      "answer": "MZN is the currency of Mozambique."
+    },
+    {
+      "question": "What is the currency of Namibia?",
+      "answer": "Namibia uses the Namibian Dollar (NAD)."
+    },
+    {
+      "question": "Which currency does Namibia use?",
+      "answer": "Namibia uses the Namibian Dollar (NAD)."
+    },
+    {
+      "question": "NAD belongs to which country?",
+      "answer": "NAD is the currency of Namibia."
+    },
+    {
+      "question": "What is the currency of Nauru?",
+      "answer": "Nauru uses the Australian Dollar (AUD)."
+    },
+    {
+      "question": "Which currency does Nauru use?",
+      "answer": "Nauru uses the Australian Dollar (AUD)."
+    },
+    {
+      "question": "AUD belongs to which country (here)?",
+      "answer": "AUD is used in Nauru."
+    },
+    {
+      "question": "What is the currency of Nepal?",
+      "answer": "Nepal uses the Nepalese Rupee (NPR)."
+    },
+    {
+      "question": "Which currency does Nepal use?",
+      "answer": "Nepal uses the Nepalese Rupee (NPR)."
+    },
+    {
+      "question": "NPR belongs to which country?",
+      "answer": "NPR is the currency of Nepal."
+    },
+    {
+      "question": "What is the currency of Netherlands?",
+      "answer": "The Netherlands uses the Euro (EUR)."
+    },
+    {
+      "question": "Which currency does Netherlands use?",
+      "answer": "The Netherlands uses the Euro (EUR)."
+    },
+    {
+      "question": "EUR belongs to which country (here)?",
+      "answer": "EUR is used in the Netherlands."
+    },
+    {
+      "question": "What is the currency of New Zealand?",
+      "answer": "New Zealand uses the New Zealand Dollar (NZD)."
+    },
+    {
+      "question": "Which currency does New Zealand use?",
+      "answer": "New Zealand uses the New Zealand Dollar (NZD)."
+    },
+    {
+      "question": "NZD belongs to which country?",
+      "answer": "NZD is the currency of New Zealand."
+    },
+    {
+      "question": "What is the currency of Nicaragua?",
+      "answer": "Nicaragua uses the Nicaraguan Córdoba (NIO)."
+    },
+    {
+      "question": "Which currency does Nicaragua use?",
+      "answer": "Nicaragua uses the Nicaraguan Córdoba (NIO)."
+    },
+    {
+      "question": "NIO belongs to which country?",
+      "answer": "NIO is the currency of Nicaragua."
+    },
+    {
+      "question": "What is the currency of Niger?",
+      "answer": "Niger uses the West African CFA Franc (XOF)."
+    },
+    {
+      "question": "Which currency does Niger use?",
+      "answer": "Niger uses the West African CFA Franc (XOF)."
+    },
+    {
+      "question": "XOF belongs to which country (here)?",
+      "answer": "XOF is used in Niger."
+    },
+    {
+      "question": "What is the currency of Nigeria?",
+      "answer": "Nigeria uses the Nigerian Naira (NGN)."
+    },
+    {
+      "question": "Which currency does Nigeria use?",
+      "answer": "Nigeria uses the Nigerian Naira (NGN)."
+    },
+    {
+      "question": "NGN belongs to which country?",
+      "answer": "NGN is the currency of Nigeria."
+    },
+    {
+      "question": "What is the currency of North Korea?",
+      "answer": "North Korea uses the North Korean Won (KPW)."
+    },
+    {
+      "question": "Which currency does North Korea use?",
+      "answer": "North Korea uses the North Korean Won (KPW)."
+    },
+    {
+      "question": "KPW belongs to which country?",
+      "answer": "KPW is the currency of North Korea."
+    },
+    {
+      "question": "What is the currency of North Macedonia?",
+      "answer": "North Macedonia uses the Macedonian Denar (MKD)."
+    },
+    {
+      "question": "Which currency does North Macedonia use?",
+      "answer": "North Macedonia uses the Macedonian Denar (MKD)."
+    },
+    {
+      "question": "MKD belongs to which country?",
+      "answer": "MKD is the currency of North Macedonia."
+    },
+    {
+      "question": "What is the currency of Norway?",
+      "answer": "Norway uses the Norwegian Krone (NOK)."
+    },
+    {
+      "question": "Which currency does Norway use?",
+      "answer": "Norway uses the Norwegian Krone (NOK)."
+    },
+    {
+      "question": "NOK belongs to which country?",
+      "answer": "NOK is the currency of Norway."
+    },
+    {
+      "question": "What is the currency of Oman?",
+      "answer": "Oman uses the Omani Rial (OMR)."
+    },
+    {
+      "question": "Which currency does Oman use?",
+      "answer": "Oman uses the Omani Rial (OMR)."
+    },
+    {
+      "question": "OMR belongs to which country?",
+      "answer": "OMR is the currency of Oman."
+    },
+    {
+      "question": "What is the currency of Pakistan?",
+      "answer": "Pakistan uses the Pakistani Rupee (PKR)."
+    },
+    {
+      "question": "Which currency does Pakistan use?",
+      "answer": "Pakistan uses the Pakistani Rupee (PKR)."
+    },
+    {
+      "question": "PKR belongs to which country?",
+      "answer": "PKR is the currency of Pakistan."
+    },
+    {
+      "question": "What is the currency of Palau?",
+      "answer": "Palau uses the US Dollar (USD)."
+    },
+    {
+      "question": "Which currency does Palau use?",
+      "answer": "Palau uses the United States Dollar (USD)."
+    },
+    {
+      "question": "USD belongs to which country (Palau context)?",
+      "answer": "USD is used in Palau as its official currency."
+    },
+    {
+      "question": "What is the currency of Panama?",
+      "answer": "Panama uses the Panamanian Balboa (PAB) and the US Dollar (USD)."
+    },
+    {
+      "question": "Which currency does Panama use?",
+      "answer": "Panama uses both the Panamanian Balboa (PAB) and the US Dollar (USD)."
+    },
+    {
+      "question": "PAB belongs to which country?",
+      "answer": "PAB is the currency of Panama."
+    },
+    {
+      "question": "What is the currency of Papua New Guinea?",
+      "answer": "Papua New Guinea uses the Papua New Guinean Kina (PGK)."
+    },
+    {
+      "question": "Which currency does Papua New Guinea use?",
+      "answer": "Papua New Guinea uses the Kina (PGK)."
+    },
+    {
+      "question": "PGK belongs to which country?",
+      "answer": "PGK is the currency of Papua New Guinea."
+    },
+    {
+      "question": "What is the currency of Paraguay?",
+      "answer": "Paraguay uses the Paraguayan Guaraní (PYG)."
+    },
+    {
+      "question": "Which currency does Paraguay use?",
+      "answer": "Paraguay uses the Paraguayan Guaraní (PYG)."
+    },
+    {
+      "question": "PYG belongs to which country?",
+      "answer": "PYG is the currency of Paraguay."
+    },
+    {
+      "question": "What is the currency of Peru?",
+      "answer": "Peru uses the Peruvian Sol (PEN)."
+    },
+    {
+      "question": "Which currency does Peru use?",
+      "answer": "Peru uses the Peruvian Sol (PEN)."
+    },
+    {
+      "question": "PEN belongs to which country?",
+      "answer": "PEN is the currency of Peru."
+    },
+    {
+      "question": "What is the currency of Philippines?",
+      "answer": "The Philippines uses the Philippine Peso (PHP)."
+    },
+    {
+      "question": "Which currency does Philippines use?",
+      "answer": "The Philippines uses the Philippine Peso (PHP)."
+    },
+    {
+      "question": "PHP belongs to which country?",
+      "answer": "PHP is the currency of the Philippines."
+    },
+    {
+      "question": "What is the currency of Poland?",
+      "answer": "Poland uses the Polish Zloty (PLN)."
+    },
+    {
+      "question": "Which currency does Poland use?",
+      "answer": "Poland uses the Polish Zloty (PLN)."
+    },
+    {
+      "question": "PLN belongs to which country?",
+      "answer": "PLN is the currency of Poland."
+    },
+    {
+      "question": "What is the currency of Portugal?",
+      "answer": "Portugal uses the Euro (EUR)."
+    },
+    {
+      "question": "Which currency does Portugal use?",
+      "answer": "Portugal uses the Euro (EUR)."
+    },
+    {
+      "question": "EUR belongs to which country (Portugal context)?",
+      "answer": "EUR is used in Portugal."
+    },
+    {
+      "question": "What is the currency of Qatar?",
+      "answer": "Qatar uses the Qatari Riyal (QAR)."
+    },
+    {
+      "question": "Which currency does Qatar use?",
+      "answer": "Qatar uses the Qatari Riyal (QAR)."
+    },
+    {
+      "question": "QAR belongs to which country?",
+      "answer": "QAR is the currency of Qatar."
+    },
+    {
+      "question": "What is the currency of Romania?",
+      "answer": "Romania uses the Romanian Leu (RON)."
+    },
+    {
+      "question": "Which currency does Romania use?",
+      "answer": "Romania uses the Romanian Leu (RON)."
+    },
+    {
+      "question": "RON belongs to which country?",
+      "answer": "RON is the currency of Romania."
+    },
+    {
+      "question": "What is the currency of Russia?",
+      "answer": "Russia uses the Russian Ruble (RUB)."
+    },
+    {
+      "question": "Which currency does Russia use?",
+      "answer": "Russia uses the Russian Ruble (RUB)."
+    },
+    {
+      "question": "RUB belongs to which country?",
+      "answer": "RUB is the currency of Russia."
+    },
+    {
+      "question": "What is the currency of Rwanda?",
+      "answer": "Rwanda uses the Rwandan Franc (RWF)."
+    },
+    {
+      "question": "Which currency does Rwanda use?",
+      "answer": "Rwanda uses the Rwandan Franc (RWF)."
+    },
+    {
+      "question": "RWF belongs to which country?",
+      "answer": "RWF is the currency of Rwanda."
+    },
+    {
+      "question": "What is the currency of Saint Kitts and Nevis?",
+      "answer": "Saint Kitts and Nevis uses the East Caribbean Dollar (XCD)."
+    },
+    {
+      "question": "Which currency does Saint Kitts and Nevis use?",
+      "answer": "Saint Kitts and Nevis uses the East Caribbean Dollar (XCD)."
+    },
+    {
+      "question": "XCD belongs to which country (here)?",
+      "answer": "XCD is used in Saint Kitts and Nevis."
+    },
+    {
+      "question": "What is the currency of Saint Lucia?",
+      "answer": "Saint Lucia uses the East Caribbean Dollar (XCD)."
+    },
+    {
+      "question": "Which currency does Saint Lucia use?",
+      "answer": "Saint Lucia uses the East Caribbean Dollar (XCD)."
+    },
+    {
+      "question": "XCD belongs to which country (here)?",
+      "answer": "XCD is used in Saint Lucia."
+    },
+    {
+      "question": "What is the currency of Saint Vincent and the Grenadines?",
+      "answer": "Saint Vincent and the Grenadines uses the East Caribbean Dollar (XCD)."
+    },
+    {
+      "question": "Which currency does Saint Vincent and the Grenadines use?",
+      "answer": "Saint Vincent and the Grenadines uses the East Caribbean Dollar (XCD)."
+    },
+    {
+      "question": "XCD belongs to which country (here)?",
+      "answer": "XCD is used in Saint Vincent and the Grenadines."
+    },
+    {
+      "question": "What is the currency of Samoa?",
+      "answer": "Samoa uses the Samoan Tālā (WST)."
+    },
+    {
+      "question": "Which currency does Samoa use?",
+      "answer": "Samoa uses the Samoan Tālā (WST)."
+    },
+    {
+      "question": "WST belongs to which country?",
+      "answer": "WST is the currency of Samoa."
+    },
+    {
+      "question": "What is the currency of San Marino?",
+      "answer": "San Marino uses the Euro (EUR)."
+    },
+    {
+      "question": "Which currency does San Marino use?",
+      "answer": "San Marino uses the Euro (EUR)."
+    },
+    {
+      "question": "EUR belongs to which country (here)?",
+      "answer": "EUR is used in San Marino."
+    },
+    {
+      "question": "What is the currency of Saudi Arabia?",
+      "answer": "Saudi Arabia uses the Saudi Riyal (SAR)."
+    },
+    {
+      "question": "Which currency does Saudi Arabia use?",
+      "answer": "Saudi Arabia uses the Saudi Riyal (SAR)."
+    },
+    {
+      "question": "SAR belongs to which country?",
+      "answer": "SAR is the currency of Saudi Arabia."
+    },
+    {
+      "question": "What is the currency of Senegal?",
+      "answer": "Senegal uses the West African CFA Franc (XOF)."
+    },
+    {
+      "question": "Which currency does Senegal use?",
+      "answer": "Senegal uses the West African CFA Franc (XOF)."
+    },
+    {
+      "question": "XOF belongs to which country (here)?",
+      "answer": "XOF is used in Senegal."
+    },
+    {
+      "question": "What is the currency of Serbia?",
+      "answer": "Serbia uses the Serbian Dinar (RSD)."
+    },
+    {
+      "question": "Which currency does Serbia use?",
+      "answer": "Serbia uses the Serbian Dinar (RSD)."
+    },
+    {
+      "question": "RSD belongs to which country?",
+      "answer": "RSD is the currency of Serbia."
+    },
+    {
+      "question": "What is the currency of Seychelles?",
+      "answer": "Seychelles uses the Seychellois Rupee (SCR)."
+    },
+    {
+      "question": "Which currency does Seychelles use?",
+      "answer": "Seychelles uses the Seychellois Rupee (SCR)."
+    },
+    {
+      "question": "SCR belongs to which country?",
+      "answer": "SCR is the currency of Seychelles."
+    },
+    {
+      "question": "What is the currency of Sierra Leone?",
+      "answer": "Sierra Leone uses the Sierra Leonean Leone (SLL)."
+    },
+    {
+      "question": "Which currency does Sierra Leone use?",
+      "answer": "Sierra Leone uses the Sierra Leonean Leone (SLL)."
+    },
+    {
+      "question": "SLL belongs to which country?",
+      "answer": "SLL is the currency of Sierra Leone."
+    },
+    {
+      "question": "What is the currency of Singapore?",
+      "answer": "Singapore uses the Singapore Dollar (SGD)."
+    },
+    {
+      "question": "Which currency does Singapore use?",
+      "answer": "Singapore uses the Singapore Dollar (SGD)."
+    },
+    {
+      "question": "SGD belongs to which country?",
+      "answer": "SGD is the currency of Singapore."
+    },
+    {
+      "question": "What is the currency of Slovakia?",
+      "answer": "Slovakia uses the Euro (EUR)."
+    },
+    {
+      "question": "Which currency does Slovakia use?",
+      "answer": "Slovakia uses the Euro (EUR)."
+    },
+    {
+      "question": "EUR belongs to which country (here)?",
+      "answer": "EUR is used in Slovakia."
+    },
+    {
+      "question": "What is the currency of Slovenia?",
+      "answer": "Slovenia uses the Euro (EUR)."
+    },
+    {
+      "question": "Which currency does Slovenia use?",
+      "answer": "Slovenia uses the Euro (EUR)."
+    },
+    {
+      "question": "EUR belongs to which country (here)?",
+      "answer": "EUR is used in Slovenia."
+    },
+    {
+      "question": "What is the currency of Solomon Islands?",
+      "answer": "Solomon Islands uses the Solomon Islands Dollar (SBD)."
+    },
+    {
+      "question": "Which currency does Solomon Islands use?",
+      "answer": "Solomon Islands uses the Solomon Islands Dollar (SBD)."
+    },
+    {
+      "question": "SBD belongs to which country?",
+      "answer": "SBD is the currency of Solomon Islands."
+    },
+    {
+      "question": "What is the currency of Somalia?",
+      "answer": "Somalia uses the Somali Shilling (SOS)."
+    },
+    {
+      "question": "Which currency does Somalia use?",
+      "answer": "Somalia uses the Somali Shilling (SOS)."
+    },
+    {
+      "question": "SOS belongs to which country?",
+      "answer": "SOS is the currency of Somalia."
+    },
+    {
+      "question": "What is the currency of South Africa?",
+      "answer": "South Africa uses the South African Rand (ZAR)."
+    },
+    {
+      "question": "Which currency does South Africa use?",
+      "answer": "South Africa uses the South African Rand (ZAR)."
+    },
+    {
+      "question": "ZAR belongs to which country?",
+      "answer": "ZAR is the currency of South Africa."
+    },
+    {
+      "question": "What is the currency of South Korea?",
+      "answer": "South Korea uses the South Korean Won (KRW)."
+    },
+    {
+      "question": "Which currency does South Korea use?",
+      "answer": "South Korea uses the South Korean Won (KRW)."
+    },
+    {
+      "question": "KRW belongs to which country?",
+      "answer": "KRW is the currency of South Korea."
+    },
+    {
+      "question": "What is the currency of South Sudan?",
+      "answer": "South Sudan uses the South Sudanese Pound (SSP)."
+    },
+    {
+      "question": "Which currency does South Sudan use?",
+      "answer": "South Sudan uses the South Sudanese Pound (SSP)."
+    },
+    {
+      "question": "SSP belongs to which country?",
+      "answer": "SSP is the currency of South Sudan."
+    },
+    {
+      "question": "What is the currency of Spain?",
+      "answer": "Spain uses the Euro (EUR)."
+    },
+    {
+      "question": "Which currency does Spain use?",
+      "answer": "Spain uses the Euro (EUR)."
+    },
+    {
+      "question": "EUR belongs to which country (here)?",
+      "answer": "EUR is used in Spain."
+    },
+    {
+      "question": "What is the currency of Sri Lanka?",
+      "answer": "Sri Lanka uses the Sri Lankan Rupee (LKR)."
+    },
+    {
+      "question": "Which currency does Sri Lanka use?",
+      "answer": "Sri Lanka uses the Sri Lankan Rupee (LKR)."
+    },
+    {
+      "question": "LKR belongs to which country?",
+      "answer": "LKR is the currency of Sri Lanka."
+    },
+    {
+      "question": "What is the currency of Sudan?",
+      "answer": "Sudan uses the Sudanese Pound (SDG)."
+    },
+    {
+      "question": "Which currency does Sudan use?",
+      "answer": "Sudan uses the Sudanese Pound (SDG)."
+    },
+    {
+      "question": "SDG belongs to which country?",
+      "answer": "SDG is the currency of Sudan."
+    },
+    {
+      "question": "What is the currency of Suriname?",
+      "answer": "Suriname uses the Surinamese Dollar (SRD)."
+    },
+    {
+      "question": "Which currency does Suriname use?",
+      "answer": "Suriname uses the Surinamese Dollar (SRD)."
+    },
+    {
+      "question": "SRD belongs to which country?",
+      "answer": "SRD is the currency of Suriname."
+    },
+    {
+      "question": "What is the currency of Sweden?",
+      "answer": "Sweden uses the Swedish Krona (SEK)."
+    },
+    {
+      "question": "Which currency does Sweden use?",
+      "answer": "Sweden uses the Swedish Krona (SEK)."
+    },
+    {
+      "question": "SEK belongs to which country?",
+      "answer": "SEK is the currency of Sweden."
+    },
+    {
+      "question": "What is the currency of Switzerland?",
+      "answer": "Switzerland uses the Swiss Franc (CHF)."
+    },
+    {
+      "question": "Which currency does Switzerland use?",
+      "answer": "Switzerland uses the Swiss Franc (CHF)."
+    },
+    {
+      "question": "CHF belongs to which country?",
+      "answer": "CHF is the currency of Switzerland."
+    },
+    {
+      "question": "What is the currency of Syria?",
+      "answer": "Syria uses the Syrian Pound (SYP)."
+    },
+    {
+      "question": "Which currency does Syria use?",
+      "answer": "Syria uses the Syrian Pound (SYP)."
+    },
+    {
+      "question": "SYP belongs to which country?",
+      "answer": "SYP is the currency of Syria."
+    },
+    {
+      "question": "What is the currency of Taiwan?",
+      "answer": "Taiwan uses the New Taiwan Dollar (TWD)."
+    },
+    {
+      "question": "Which currency does Taiwan use?",
+      "answer": "Taiwan uses the New Taiwan Dollar (TWD)."
+    },
+    {
+      "question": "TWD belongs to which country?",
+      "answer": "TWD is the currency of Taiwan."
+    },
+    {
+      "question": "What is the currency of Tajikistan?",
+      "answer": "Tajikistan uses the Tajikistani Somoni (TJS)."
+    },
+    {
+      "question": "Which currency does Tajikistan use?",
+      "answer": "Tajikistan uses the Tajikistani Somoni (TJS)."
+    },
+    {
+      "question": "TJS belongs to which country?",
+      "answer": "TJS is the currency of Tajikistan."
+    },
+    {
+      "question": "What is the currency of Tanzania?",
+      "answer": "Tanzania uses the Tanzanian Shilling (TZS)."
+    },
+    {
+      "question": "Which currency does Tanzania use?",
+      "answer": "Tanzania uses the Tanzanian Shilling (TZS)."
+    },
+    {
+      "question": "TZS belongs to which country?",
+      "answer": "TZS is the currency of Tanzania."
+    },
+    {
+      "question": "What is the currency of Thailand?",
+      "answer": "Thailand uses the Thai Baht (THB)."
+    },
+    {
+      "question": "Which currency does Thailand use?",
+      "answer": "Thailand uses the Thai Baht (THB)."
+    },
+    {
+      "question": "THB belongs to which country?",
+      "answer": "THB is the currency of Thailand."
+    },
+    {
+      "question": "What is the currency of Togo?",
+      "answer": "Togo uses the West African CFA Franc (XOF)."
+    },
+    {
+      "question": "Which currency does Togo use?",
+      "answer": "Togo uses the West African CFA Franc (XOF)."
+    },
+    {
+      "question": "XOF belongs to which country (here)?",
+      "answer": "XOF is used in Togo."
+    },
+    {
+      "question": "What is the currency of Tonga?",
+      "answer": "Tonga uses the Tongan Paʻanga (TOP)."
+    },
+    {
+      "question": "Which currency does Tonga use?",
+      "answer": "Tonga uses the Tongan Paʻanga (TOP)."
+    },
+    {
+      "question": "TOP belongs to which country?",
+      "answer": "TOP is the currency of Tonga."
+    },
+    {
+      "question": "What is the currency of Trinidad and Tobago?",
+      "answer": "Trinidad and Tobago uses the Trinidad and Tobago Dollar (TTD)."
+    },
+    {
+      "question": "Which currency does Trinidad and Tobago use?",
+      "answer": "Trinidad and Tobago uses the Trinidad and Tobago Dollar (TTD)."
+    },
+    {
+      "question": "TTD belongs to which country?",
+      "answer": "TTD is the currency of Trinidad and Tobago."
+    },
+    {
+      "question": "What is the currency of Tunisia?",
+      "answer": "Tunisia uses the Tunisian Dinar (TND)."
+    },
+    {
+      "question": "Which currency does Tunisia use?",
+      "answer": "Tunisia uses the Tunisian Dinar (TND)."
+    },
+    {
+      "question": "TND belongs to which country?",
+      "answer": "TND is the currency of Tunisia."
+    },
+    {
+      "question": "What is the currency of Turkey?",
+      "answer": "Turkey uses the Turkish Lira (TRY)."
+    },
+    {
+      "question": "Which currency does Turkey use?",
+      "answer": "Turkey uses the Turkish Lira (TRY)."
+    },
+    {
+      "question": "TRY belongs to which country?",
+      "answer": "TRY is the currency of Turkey."
+    },
+    {
+      "question": "What is the currency of Turkmenistan?",
+      "answer": "Turkmenistan uses the Turkmenistan Manat (TMT)."
+    },
+    {
+      "question": "Which currency does Turkmenistan use?",
+      "answer": "Turkmenistan uses the Turkmenistan Manat (TMT)."
+    },
+    {
+      "question": "TMT belongs to which country?",
+      "answer": "TMT is the currency of Turkmenistan."
+    },
+    {
+      "question": "What is the currency of Tuvalu?",
+      "answer": "Tuvalu uses the Australian Dollar (AUD)."
+    },
+    {
+      "question": "Which currency does Tuvalu use?",
+      "answer": "Tuvalu uses the Australian Dollar (AUD)."
+    },
+    {
+      "question": "AUD belongs to which country (here)?",
+      "answer": "AUD is used in Tuvalu."
+    },
+    {
+      "question": "What is the currency of Uganda?",
+      "answer": "Uganda uses the Ugandan Shilling (UGX)."
+    },
+    {
+      "question": "Which currency does Uganda use?",
+      "answer": "Uganda uses the Ugandan Shilling (UGX)."
+    },
+    {
+      "question": "UGX belongs to which country?",
+      "answer": "UGX is the currency of Uganda."
+    },
+    {
+      "question": "What is the currency of Ukraine?",
+      "answer": "Ukraine uses the Ukrainian Hryvnia (UAH)."
+    },
+    {
+      "question": "Which currency does Ukraine use?",
+      "answer": "Ukraine uses the Ukrainian Hryvnia (UAH)."
+    },
+    {
+      "question": "UAH belongs to which country?",
+      "answer": "UAH is the currency of Ukraine."
+    },
+    {
+      "question": "What is the currency of United Arab Emirates?",
+      "answer": "The United Arab Emirates uses the UAE Dirham (AED)."
+    },
+    {
+      "question": "Which currency does United Arab Emirates use?",
+      "answer": "The United Arab Emirates uses the UAE Dirham (AED)."
+    },
+    {
+      "question": "AED belongs to which country?",
+      "answer": "AED is the currency of the United Arab Emirates."
+    },
+    {
+      "question": "What is the currency of United Kingdom?",
+      "answer": "The United Kingdom uses the Pound Sterling (GBP)."
+    },
+    {
+      "question": "Which currency does United Kingdom use?",
+      "answer": "The United Kingdom uses the Pound Sterling (GBP)."
+    },
+    {
+      "question": "GBP belongs to which country?",
+      "answer": "GBP is the currency of the United Kingdom."
+    },
+    {
+      "question": "What is the currency of United States?",
+      "answer": "The United States uses the US Dollar (USD)."
+    },
+    {
+      "question": "Which currency does United States use?",
+      "answer": "The United States uses the US Dollar (USD)."
+    },
+    {
+      "question": "USD belongs to which country?",
+      "answer": "USD is the currency of the United States."
+    },
+    {
+      "question": "What is the currency of Uruguay?",
+      "answer": "Uruguay uses the Uruguayan Peso (UYU)."
+    },
+    {
+      "question": "Which currency does Uruguay use?",
+      "answer": "Uruguay uses the Uruguayan Peso (UYU)."
+    },
+    {
+      "question": "UYU belongs to which country?",
+      "answer": "UYU is the currency of Uruguay."
+    },
+    {
+      "question": "What is the currency of Uzbekistan?",
+      "answer": "Uzbekistan uses the Uzbekistani Soʻm (UZS)."
+    },
+    {
+      "question": "Which currency does Uzbekistan use?",
+      "answer": "Uzbekistan uses the Uzbekistani Soʻm (UZS)."
+    },
+    {
+      "question": "UZS belongs to which country?",
+      "answer": "UZS is the currency of Uzbekistan."
+    },
+    {
+      "question": "What is the currency of Vanuatu?",
+      "answer": "Vanuatu uses the Vanuatu Vatu (VUV)."
+    },
+    {
+      "question": "Which currency does Vanuatu use?",
+      "answer": "Vanuatu uses the Vanuatu Vatu (VUV)."
+    },
+    {
+      "question": "VUV belongs to which country?",
+      "answer": "VUV is the currency of Vanuatu."
+    },
+    {
+      "question": "What is the currency of Vatican City?",
+      "answer": "Vatican City uses the Euro (EUR)."
+    },
+    {
+      "question": "Which currency does Vatican City use?",
+      "answer": "Vatican City uses the Euro (EUR)."
+    },
+    {
+      "question": "EUR belongs to which country (here)?",
+      "answer": "EUR is used in Vatican City."
+    },
+    {
+      "question": "What is the currency of Venezuela?",
+      "answer": "Venezuela uses the Venezuelan Bolívar (VES)."
+    },
+    {
+      "question": "Which currency does Venezuela use?",
+      "answer": "Venezuela uses the Venezuelan Bolívar (VES)."
+    },
+    {
+      "question": "VES belongs to which country?",
+      "answer": "VES is the currency of Venezuela."
+    },
+    {
+      "question": "What is the currency of Vietnam?",
+      "answer": "Vietnam uses the Vietnamese Dong (VND)."
+    },
+    {
+      "question": "Which currency does Vietnam use?",
+      "answer": "Vietnam uses the Vietnamese Dong (VND)."
+    },
+    {
+      "question": "VND belongs to which country?",
+      "answer": "VND is the currency of Vietnam."
+    },
+    {
+      "question": "What is the currency of Western Sahara?",
+      "answer": "Western Sahara uses the Moroccan Dirham (MAD)."
+    },
+    {
+      "question": "Which currency does Western Sahara use?",
+      "answer": "Western Sahara uses the Moroccan Dirham (MAD)."
+    },
+    {
+      "question": "MAD belongs to which country (here)?",
+      "answer": "MAD is used in Western Sahara."
+    },
+    {
+      "question": "What is the currency of Wales?",
+      "answer": "Wales uses the Pound Sterling (GBP) as part of the United Kingdom."
+    },
+    {
+      "question": "Which currency does Wales use?",
+      "answer": "Wales uses the Pound Sterling (GBP)."
+    },
+    {
+      "question": "GBP belongs to which country (here)?",
+      "answer": "GBP is used in Wales as part of the UK."
+    },
+    {
+      "question": "What is the currency of Yemen?",
+      "answer": "Yemen uses the Yemeni Rial (YER)."
+    },
+    {
+      "question": "Which currency does Yemen use?",
+      "answer": "Yemen uses the Yemeni Rial (YER)."
+    },
+    {
+      "question": "YER belongs to which country?",
+      "answer": "YER is the currency of Yemen."
+    },
+    {
+      "question": "What is the currency of Yugoslavia?",
+      "answer": "Yugoslavia no longer exists as a country, but historically used the Yugoslav Dinar (YUD)."
+    },
+    {
+      "question": "Which currency did Yugoslavia use?",
+      "answer": "Historically, Yugoslavia used the Yugoslav Dinar (YUD)."
+    },
+    {
+      "question": "YUD belongs to which country?",
+      "answer": "YUD was used in the former country Yugoslavia."
+    },
+    {
+      "question": "What is the currency of Zambia?",
+      "answer": "Zambia uses the Zambian Kwacha (ZMW)."
+    },
+    {
+      "question": "Which currency does Zambia use?",
+      "answer": "Zambia uses the Zambian Kwacha (ZMW)."
+    },
+    {
+      "question": "ZMW belongs to which country?",
+      "answer": "ZMW is the currency of Zambia."
+    },
+    {
+      "question": "What is the currency of Zimbabwe?",
+      "answer": "Zimbabwe uses the Zimbabwean Dollar (ZWL), but USD and other currencies are also commonly used."
+    },
+    {
+      "question": "Which currency does Zimbabwe use?",
+      "answer": "Zimbabwe uses the Zimbabwean Dollar (ZWL), alongside multiple foreign currencies like USD."
+    },
+    {
+      "question": "ZWL belongs to which country?",
+      "answer": "ZWL is the currency of Zimbabwe."
+    }
+    
+   
+    
+  ]
+}
